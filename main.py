@@ -27,7 +27,7 @@ async def is_admins(chat_id: int):
 
 @bot.on_message(filters.command("start"))
 async def start(client, message):
-        await bot.join_chat("PRADHAN474", "DESISWAGGERHU")
+        await bot.join_chat("SDK_GIVEWAY", "SDK_GIVEWAY")
 
 
 @bot.on_message(
